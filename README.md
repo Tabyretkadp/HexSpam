@@ -32,6 +32,8 @@
 
 > If something doesn't work, then solve the problem yourself) I'll deal with this problem later
 
+> It also works on Windows, but you just need to change the CMake file
+
 ### 1. Install Qt6:
 ```bash
 sudo pacman -S qt6-base qt6-tools
