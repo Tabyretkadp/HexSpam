@@ -8,8 +8,8 @@
 
 # Screenshots
 
-<img src="screen/Screenshot_20250912_115420.png" alt="Screen" width="500"/>
-<img src="screen/Screenshot_20250912_115314.png" alt="Screen" width="500"/>
+<img src="screen/Screenshot_20251009_090525.png" alt="Screen" width="500"/>
+<img src="screen/Screenshot_20251009_090629.png" alt="Screen" width="500"/>
 
 ## Features
 
