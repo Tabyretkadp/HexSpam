@@ -38,8 +38,8 @@ sudo pacman -S qt6-base qt6-tools
 ```
 ### 2. Install Project:
 ```bash
-git clone https://github.com/Tabyretkadp/.chronix.git
-cd .chronix
+git clone https://github.com/Tabyretkadp/HexSpam.git
+cd HexSpam
 ```
 ### 3. Install TDlib
 ```bash
