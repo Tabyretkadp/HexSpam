@@ -44,6 +44,12 @@ cd HexSpam
 ### 3. Install TDlib
 ```bash
 Download TDLib -> https://tdlib.github.io/td/build.html
+> C++
+> Linux
+> Your distro
++ Enable Link Time Optimization (requires CMake >= 3.9.0)...
++ Install built TDLib to /usr/local instead of placing the files to td/tdlib.
+
 ```
 ### 4. Install Other
 ```bash
